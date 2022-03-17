@@ -2,15 +2,18 @@ body {
   margin: 0;
   text-align: center;
   font-family: "Merriweather", serif;
+  font-size: 200%;
 }
 
 h1 {
+  font-size: 5.625rem;
   margin-top: 0;
   font-family: "Sacramento", cursive;
 }
 
 h2 {
   font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
 }
 
 h3 {
@@ -24,15 +27,11 @@ h3 {
 }
 
 .middle-container {
-  background-color: blue;
-  height: 200px;
-  width: 200px;
+
 }
 
 .bottom-container {
-  background-color: red;
-  height: 200px;
-  width: 200px;
+
 }
 
 .bottom-cloud {
